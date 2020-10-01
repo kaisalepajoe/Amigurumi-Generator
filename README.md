@@ -1,2 +1,2 @@
 # Amigurumi-Generator
-An application that helps you write amigurumi crochet patterns.
+IN PROGRESS. An application that helps you write amigurumi crochet patterns.
